@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "description": "Enjoy clear and immersive sound with these comfortable wireless headphones. Perfect for music, gaming, and everyday use.",
+      "image": "https://i.ibb.co.com/8Dq7vV0/headphones.jpg",
+      "rating": 4.5,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "description": "A stylish smart watch with fitness tracking, heart rate monitoring, notifications, and a long-lasting battery.",
+      "image": "https://i.ibb.co.com/6rKq5ZP/smartwatch.jpg",
+      "rating": 4.3,
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 74.99,
+      "category": "Fashion",
+      "description": "Lightweight and comfortable running shoes designed to provide excellent support and cushioning for daily workouts.",
+      "image": "https://i.ibb.co.com/9nM9H5x/running-shoes.jpg",
+      "rating": 4.7,
+      "stock": 32
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 49.99,
+      "category": "Accessories",
+      "description": "A durable and stylish leather backpack with multiple compartments for carrying your laptop, books, and daily essentials.",
+      "image": "https://i.ibb.co.com/3cTqYJm/backpack.jpg",
+      "rating": 4.4,
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 69.99,
+      "category": "Computer",
+      "description": "A responsive mechanical keyboard with tactile keys, comfortable typing, and a durable design for work and gaming.",
+      "image": "https://i.ibb.co.com/4pWmJxY/keyboard.jpg",
+      "rating": 4.6,
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "name": "Coffee Mug",
+      "price": 14.99,
+      "category": "Home",
+      "description": "A simple and elegant ceramic coffee mug that is perfect for enjoying coffee, tea, or your favorite hot beverage.",
+      "image": "https://i.ibb.co.com/7Jx2mKc/coffee-mug.jpg",
+      "rating": 4.2,
+      "stock": 40
+    }
+  ]
+}
