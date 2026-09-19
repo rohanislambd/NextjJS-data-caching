@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Headphones",
+      "name": "Mechanical Keyboard",
       "price": 59.99,
       "category": "Electronics",
       "description": "Enjoy clear and immersive sound with these comfortable wireless headphones. Perfect for music, gaming, and everyday use.",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "Running Shoes",
+      "name": "Space Shoes",
       "price": 74.99,
       "category": "Fashion",
       "description": "Lightweight and comfortable running shoes designed to provide excellent support and cushioning for daily workouts.",
@@ -59,6 +59,75 @@
       "image": "https://i.ibb.co.com/7Jx2mKc/coffee-mug.jpg",
       "rating": 4.2,
       "stock": 40
+    }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "title": "The Power of chill",
+      "author": "Charles Duhigg",
+      "price": 18.99,
+      "category": "Self Development",
+      "description": "A practical book that explains how habits work and how you can change them to improve your life.",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "rating": 4.6,
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "title": "Mofiz Habits",
+      "author": "James Clear",
+      "price": 21.99,
+      "category": "Self Development",
+      "description": "A guide to building good habits, breaking bad ones, and making small changes that lead to remarkable results.",
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "rating": 4.9,
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "title": "Rohan Code",
+      "author": "Robert C. Martin",
+      "price": 32.99,
+      "category": "Programming",
+      "description": "A classic programming book that teaches developers how to write clean, readable, maintainable, and professional code.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "rating": 4.7,
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas & Andrew Hunt",
+      "price": 29.99,
+      "category": "Programming",
+      "description": "A practical guide to becoming a better software developer through effective programming practices and problem-solving techniques.",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "rating": 4.8,
+      "stock": 22
+    },
+    {
+      "id": 5,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 16.99,
+      "category": "Finance",
+      "description": "A personal finance book that explores different approaches to money, investing, and building financial independence.",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e",
+      "rating": 4.5,
+      "stock": 28
+    },
+    {
+      "id": 6,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 19.99,
+      "category": "Productivity",
+      "description": "A productivity guide that explains how focused, distraction-free work can help you achieve better results in less time.",
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6",
+      "rating": 4.7,
+      "stock": 18
     }
   ]
 }
